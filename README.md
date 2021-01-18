@@ -1,15 +1,16 @@
 # AutomateCellProfiler
 a simple script automating cell profiler
 
-##instalation
+ ## Instalation
 - This requires that you have Autohotkey installed
-- click on celllprofiler.ahk
-- go to raw
-- copy everything
-- open notepad and paste
-- save it somewhere you will remember
-- change the end of the file from .txt to .ahk
-- click on it 
+1. click on celllprofiler.ahk
+2. go to raw
+3. copy everything
+4. open notepad and paste
+5. save it somewhere you will remember
+6. change the end of the file from .txt to .ahk
+7. click on it 
+
 
 
 
