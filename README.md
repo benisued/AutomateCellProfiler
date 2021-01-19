@@ -22,7 +22,7 @@ its possible that the coordinates of the buttons on your screen is different tha
 ```
 MouseClick, left, 143, 38 ;
 ```
-the explanation on medium goes in depth but in short go to window spy by right clicking the AutoHotKey icon position the mouse where you want ot lcick and write down the coordinates
+the explanation on medium goes in depth but in short go to window spy by right clicking the AutoHotKey icon position the mouse where you want the click too happen and write down the coordinates
 
 another possible problem is that your computer is not loading the next picture quick enough, so the click from the script wont work.  To solve this use the command "sleep" before any problematic click, for example:
 ```
