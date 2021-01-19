@@ -2,7 +2,13 @@
 a simple script automating cell profiler https://cellprofiler.org/
 
  ## Instalation
-- This requires that you have Autohotkey installed
+ This requires that you have Autohotkey installed
+ I Wrote an explanation that goes in extreme detail on medium:
+
+ https://sweed.medium.com/cut-the-time-you-do-menial-tasks-by-at-least-30-with-this-simple-trick-a7ce4513b43e
+
+But in short:
+
 1. click on celllprofiler.ahk
 2. go to raw
 3. copy everything
