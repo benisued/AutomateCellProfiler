@@ -16,11 +16,6 @@ But in short:
 6. click on it to use (to stop it go to the bottom of the screen right click on the icon and exit)
 
 
-
-I Wrote an explanation that goes in extreme detail on medium:
-
- https://sweed.medium.com/cut-the-time-you-do-menial-tasks-by-at-least-30-with-this-simple-trick-a7ce4513b43e
-
 ## Troubleshooting
 
 its possible that the coordinates of the buttons on your screen is different than mine so you might need to adjust the mouse coordintes in the lines with coordinates like this:
