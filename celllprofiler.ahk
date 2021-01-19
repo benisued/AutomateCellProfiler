@@ -20,7 +20,6 @@ return ;
 e::
 MouseGetPos CurX, CurY
 MouseClick, left, 890, 983 ;
-sleep, 250   ;wait a little
 WinMaximize, A ;f
 MouseClick, left, 143, 38 ;
 MouseMove %CurX%, %CurY%, 0
