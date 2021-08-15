@@ -18,13 +18,13 @@ But in short:
 
 ## Troubleshooting
 
-its possible that the coordinates of the buttons on your screen is different than mine so you might need to adjust the mouse coordintes in the lines with coordinates like this:
+it's likely that the coordinates of the buttons on your screen is different than mine, so the clicks wont line up with the buttons, you may need to adjust the mouse coordintes in the lines with coordinates like this:
 ```
 MouseClick, left, 143, 38 ;
 ```
-the explanation on medium goes in depth but in short go to window spy by right clicking the AutoHotKey icon position the mouse where you want the click too happen and write down the coordinates
+the explanation on medium goes in depth but, go to "window spy" by right clicking the AutoHotKey icon (bottom right of the screen, bedside the clock) position the mouse where you the button you want to click is located and write down the coordinates.
 
-another possible problem is that your computer is not loading the next picture quick enough, so the click from the script wont work.  To solve this use the command "sleep" before any problematic click, for example:
+another possible problem is that your computer is not loading the next picture quick enough, so the click from the script wont work (it click on the button before the bottun appears).  To solve this use the command "sleep" before any problematic click, for example:
 ```
 e::
 MouseGetPos CurX, CurY
